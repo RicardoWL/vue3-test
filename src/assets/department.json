@@ -1,0 +1,339 @@
+[
+  {
+    "qywx_id": "1",
+    "id": "p_1",
+    "title": "知学科技",
+    "type": 1,
+    "disabled": false,
+    "children": [
+      {
+        "id": "178",
+        "title": "合作商1",
+        "disabled": false
+      },
+      {
+        "qywx_id": "18",
+        "id": "p_18",
+        "title": "总经理办公室",
+        "type": 1,
+        "disabled": true,
+        "children": [
+          {
+            "id": "17",
+            "title": "吴龙杰",
+            "disabled": true
+          }
+        ]
+      },
+      {
+        "qywx_id": "2",
+        "id": "p_2",
+        "title": "产品技术中心",
+        "type": 1,
+        "disabled": false,
+        "children": [
+          {
+            "id": "17",
+            "title": "吴龙杰",
+            "disabled": false
+          },
+          {
+            "qywx_id": "4",
+            "id": "p_4",
+            "title": "技术开发部",
+            "type": 1,
+            "disabled": false,
+            "children": [
+              {
+                "id": "67",
+                "title": "吴宣",
+                "disabled": false
+              },
+              {
+                "id": "120",
+                "title": "杨科",
+                "disabled": false
+              },
+              {
+                "id": "168",
+                "title": "王子建",
+                "disabled": false
+              },
+              {
+                "id": "204",
+                "title": "毛浩庭",
+                "disabled": false
+              },
+              {
+                "id": "208",
+                "title": "许纳斯",
+                "disabled": false
+              },
+              {
+                "id": "209",
+                "title": "王龙滨",
+                "disabled": false
+              },
+              {
+                "id": "241",
+                "title": "朱雨骏",
+                "disabled": false
+              },
+              {
+                "id": "245",
+                "title": "赵灵祺",
+                "disabled": false
+              },
+              {
+                "id": "255",
+                "title": "王觉贤",
+                "disabled": false
+              },
+              {
+                "id": "256",
+                "title": "陈益波",
+                "disabled": false
+              },
+              {
+                "id": "439",
+                "title": "王志龙",
+                "disabled": false
+              }
+            ]
+          },
+          {
+            "qywx_id": "16",
+            "id": "p_16",
+            "title": "系统架构部",
+            "type": 1,
+            "disabled": true,
+            "children": [ ]
+          },
+          {
+            "qywx_id": "19",
+            "id": "p_19",
+            "title": "运营部",
+            "type": 1,
+            "disabled": true,
+            "children": [
+              {
+                "id": "241",
+                "title": "朱雨骏",
+                "disabled": true
+              },
+              {
+                "id": "388",
+                "title": "温天伦",
+                "disabled": true
+              }
+            ]
+          },
+          {
+            "qywx_id": "11",
+            "id": "p_11",
+            "title": "鲜花事业部",
+            "type": 1,
+            "disabled": true,
+            "children": [
+              {
+                "id": "208",
+                "title": "许纳斯",
+                "disabled": true
+              }
+            ]
+          },
+          {
+            "qywx_id": "13",
+            "id": "p_13",
+            "title": "产品运营部",
+            "type": 1,
+            "disabled": true,
+            "children": [
+              {
+                "id": "198",
+                "title": "黄蕊新",
+                "disabled": true
+              },
+              {
+                "id": "253",
+                "title": "李吉",
+                "disabled": true
+              },
+              {
+                "id": "241",
+                "title": "朱雨骏",
+                "disabled": true
+              },
+              {
+                "id": "369",
+                "title": "郑媛媛",
+                "disabled": true
+              },
+              {
+                "qywx_id": "20",
+                "id": "p_20",
+                "title": "打印添加号",
+                "type": 1,
+                "disabled": true,
+                "children": [ ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "qywx_id": "5",
+        "id": "p_5",
+        "title": "教研部",
+        "type": 1,
+        "disabled": true,
+        "children": [
+          {
+            "id": "185",
+            "title": "冯虹",
+            "disabled": true
+          },
+          {
+            "id": "187",
+            "title": "杨絮影",
+            "disabled": true
+          },
+          {
+            "id": "210",
+            "title": "郁婷尔",
+            "disabled": true
+          },
+          {
+            "id": "225",
+            "title": "程琨",
+            "disabled": true
+          },
+          {
+            "id": "205",
+            "title": "王慧",
+            "disabled": true
+          },
+          {
+            "qywx_id": "9",
+            "id": "p_9",
+            "title": "医学组",
+            "type": 1,
+            "disabled": true,
+            "children": [
+              {
+                "id": "263",
+                "title": "马晨莞",
+                "disabled": true
+              }
+            ]
+          },
+          {
+            "qywx_id": "10",
+            "id": "p_10",
+            "title": "题库组",
+            "type": 1,
+            "disabled": true,
+            "children": [
+              {
+                "id": "141",
+                "title": "王超",
+                "disabled": true
+              }
+            ]
+          },
+          {
+            "qywx_id": "17",
+            "id": "p_17",
+            "title": "非医学组",
+            "type": 1,
+            "disabled": true,
+            "children": [
+              {
+                "id": "191",
+                "title": "王涛",
+                "disabled": true
+              },
+              {
+                "id": "193",
+                "title": "蔡玲",
+                "disabled": true
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "qywx_id": "6",
+        "id": "p_6",
+        "title": "咨询中心",
+        "type": 1,
+        "disabled": true,
+        "children": [
+          {
+            "id": "64",
+            "title": "王君",
+            "disabled": true
+          },
+          {
+            "qywx_id": "19",
+            "id": "p_19",
+            "title": "咨询账号",
+            "type": 1,
+            "disabled": true,
+            "children": [
+              {
+                "id": "241",
+                "title": "朱雨骏",
+                "disabled": true
+              },
+              {
+                "id": "388",
+                "title": "温天伦",
+                "disabled": true
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "qywx_id": "7",
+        "id": "p_7",
+        "title": "行政部",
+        "type": 1,
+        "disabled": true,
+        "children": [
+          {
+            "qywx_id": "14",
+            "id": "p_14",
+            "title": "人力资源部",
+            "type": 1,
+            "disabled": true,
+            "children": [ ]
+          },
+          {
+            "qywx_id": "15",
+            "id": "p_15",
+            "title": "财务部",
+            "type": 1,
+            "disabled": true,
+            "children": [
+              {
+                "id": "118",
+                "title": "叶琼琼",
+                "disabled": true
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "qywx_id": "8",
+        "id": "p_8",
+        "title": "物流部",
+        "type": 1,
+        "disabled": true,
+        "children": [ ]
+      }
+    ]
+  }
+]

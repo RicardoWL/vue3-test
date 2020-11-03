@@ -1,0 +1,20 @@
+[
+  {
+    "id": "439",
+    "type": "2",
+    "name": "王志龙",
+    "position": "前端工程师",
+    "status": "1",
+    "handle_type": 1,
+    "remark": false
+  },
+  {
+    "id": "439",
+    "type": 1,
+    "name": "王志龙",
+    "position": "前端工程师",
+    "status": 2,
+    "handle_type": 1,
+    "remark": "员工和主管可协同编辑绩效改进计划"
+  }
+]

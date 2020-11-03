@@ -1,0 +1,379 @@
+[
+  {
+    "id": "1159",
+    "uid": "256",
+    "type": "1",
+    "score": "0",
+    "result": false,
+    "final_coefficient": "",
+    "cycle_id": "23",
+    "is_end": "0",
+    "cycle_name": {
+      "id": "23",
+      "date": "2021-12"
+    },
+    "status": 98
+  },
+  {
+    "id": "1093",
+    "uid": "256",
+    "type": "1",
+    "score": "10",
+    "result": {
+      "accident_rank": 0,
+      "accident_coefficient": 1,
+      "score": "10",
+      "rank": "D",
+      "coefficient": "0",
+      "final_coefficient": "0"
+    },
+    "final_coefficient": "0",
+    "cycle_id": "22",
+    "is_end": "0",
+    "cycle_name": {
+      "id": "22",
+      "date": "2021-11"
+    },
+    "status": 98
+  },
+  {
+    "id": "1065",
+    "uid": "256",
+    "type": "1",
+    "score": "0",
+    "result": false,
+    "final_coefficient": "",
+    "cycle_id": "21",
+    "is_end": "0",
+    "cycle_name": {
+      "id": "21",
+      "date": "2021-10"
+    },
+    "status": 98
+  },
+  {
+    "id": "1002",
+    "uid": "256",
+    "type": "1",
+    "score": "0",
+    "result": {
+      "accident_rank": 0,
+      "accident_coefficient": 1,
+      "score": "0",
+      "rank": "D",
+      "coefficient": "0",
+      "final_coefficient": "0"
+    },
+    "final_coefficient": "0",
+    "cycle_id": "20",
+    "is_end": "0",
+    "cycle_name": {
+      "id": "20",
+      "date": "2021-09"
+    },
+    "status": 98
+  },
+  {
+    "id": "972",
+    "uid": "256",
+    "type": "1",
+    "score": "0",
+    "result": false,
+    "final_coefficient": "",
+    "cycle_id": "19",
+    "is_end": "0",
+    "cycle_name": {
+      "id": "19",
+      "date": "2021-08"
+    },
+    "status": 98
+  },
+  {
+    "id": "918",
+    "uid": "256",
+    "type": "1",
+    "score": "95",
+    "result": {
+      "accident_rank": 0,
+      "accident_coefficient": 1,
+      "score": "95",
+      "rank": "A+",
+      "coefficient": 1.5,
+      "final_coefficient": "1.5"
+    },
+    "final_coefficient": "1.5",
+    "cycle_id": "18",
+    "is_end": "0",
+    "cycle_name": {
+      "id": "18",
+      "date": "2021-07"
+    },
+    "status": 98
+  },
+  {
+    "id": "883",
+    "uid": "256",
+    "type": "1",
+    "score": "0",
+    "result": {
+      "accident_rank": 0,
+      "accident_coefficient": 1,
+      "score": "0",
+      "rank": "",
+      "coefficient": 0,
+      "final_coefficient": "0"
+    },
+    "final_coefficient": "0",
+    "cycle_id": "17",
+    "is_end": "0",
+    "cycle_name": {
+      "id": "17",
+      "date": "2021-06"
+    },
+    "status": 98
+  },
+  {
+    "id": "858",
+    "uid": "256",
+    "type": "1",
+    "score": "0",
+    "result": {
+      "accident_rank": "3",
+      "accident_coefficient": 0.9,
+      "score": "0",
+      "rank": "D",
+      "coefficient": "0",
+      "final_coefficient": "0"
+    },
+    "final_coefficient": "0",
+    "cycle_id": "16",
+    "is_end": "0",
+    "cycle_name": {
+      "id": "16",
+      "date": "2021-05"
+    },
+    "status": 98
+  },
+  {
+    "id": "842",
+    "uid": "256",
+    "type": "1",
+    "score": "0",
+    "result": false,
+    "final_coefficient": "",
+    "cycle_id": "15",
+    "is_end": "0",
+    "cycle_name": {
+      "id": "15",
+      "date": "2021-04"
+    },
+    "status": 98
+  },
+  {
+    "id": "804",
+    "uid": "256",
+    "type": "1",
+    "score": "100",
+    "result": {
+      "accident_rank": 0,
+      "accident_coefficient": 1,
+      "score": "100",
+      "rank": "A+",
+      "coefficient": 1.5,
+      "final_coefficient": "1.5"
+    },
+    "final_coefficient": "1.5",
+    "cycle_id": "14",
+    "is_end": "0",
+    "cycle_name": {
+      "id": "14",
+      "date": "2021-03"
+    },
+    "status": 98
+  },
+  {
+    "id": "783",
+    "uid": "256",
+    "type": "1",
+    "score": "0",
+    "result": false,
+    "final_coefficient": "",
+    "cycle_id": "13",
+    "is_end": "0",
+    "cycle_name": {
+      "id": "13",
+      "date": "2021-02"
+    },
+    "status": 98
+  },
+  {
+    "id": "738",
+    "uid": "256",
+    "type": "1",
+    "score": "75",
+    "result": {
+      "accident_rank": 0,
+      "accident_coefficient": 1,
+      "score": "75",
+      "rank": "C",
+      "coefficient": "0.7",
+      "final_coefficient": "0.7"
+    },
+    "final_coefficient": "0.7",
+    "cycle_id": "12",
+    "is_end": "1",
+    "cycle_name": {
+      "id": "12",
+      "date": "2021-01"
+    },
+    "status": 99
+  },
+  {
+    "id": "709",
+    "uid": "256",
+    "type": "1",
+    "score": "105",
+    "result": {
+      "accident_rank": 0,
+      "accident_coefficient": 1,
+      "score": 105,
+      "rank": "A+",
+      "coefficient": 1.5,
+      "final_coefficient": "1.5"
+    },
+    "final_coefficient": "1.5",
+    "cycle_id": "11",
+    "is_end": "1",
+    "cycle_name": {
+      "id": "11",
+      "date": "2020-12"
+    },
+    "status": 99
+  },
+  {
+    "id": "680",
+    "uid": "256",
+    "type": "1",
+    "score": "88",
+    "result": {
+      "accident_rank": "3",
+      "accident_coefficient": 0.9,
+      "score": 88,
+      "rank": "B",
+      "coefficient": 1.04,
+      "final_coefficient": "0.9"
+    },
+    "final_coefficient": "0.9",
+    "cycle_id": "10",
+    "is_end": "1",
+    "cycle_name": {
+      "id": "10",
+      "date": "2020-11"
+    },
+    "status": 99
+  },
+  {
+    "id": "672",
+    "uid": "256",
+    "type": "1",
+    "score": "0",
+    "result": false,
+    "final_coefficient": "",
+    "cycle_id": "9",
+    "is_end": "0",
+    "cycle_name": {
+      "id": "9",
+      "date": "2020-10"
+    },
+    "status": 98
+  },
+  {
+    "id": "584",
+    "uid": "256",
+    "type": "1",
+    "score": "0",
+    "result": false,
+    "final_coefficient": "",
+    "cycle_id": "8",
+    "is_end": "0",
+    "cycle_name": {
+      "id": "8",
+      "date": "2020-09"
+    },
+    "status": 98
+  },
+  {
+    "id": "496",
+    "uid": "256",
+    "type": "1",
+    "score": "0",
+    "result": false,
+    "final_coefficient": "",
+    "cycle_id": "7",
+    "is_end": "0",
+    "cycle_name": {
+      "id": "7",
+      "date": "2020-08"
+    },
+    "status": 98
+  },
+  {
+    "id": "327",
+    "uid": "256",
+    "type": "1",
+    "score": "0",
+    "result": {
+      "accident_rank": 0,
+      "accident_coefficient": 1,
+      "score": 0,
+      "rank": "D",
+      "coefficient": "0",
+      "final_coefficient": "0"
+    },
+    "final_coefficient": "0",
+    "cycle_id": "6",
+    "is_end": "0",
+    "cycle_name": {
+      "id": "6",
+      "date": "2020-07"
+    },
+    "status": 98
+  },
+  {
+    "id": "238",
+    "uid": "256",
+    "type": "1",
+    "score": "0",
+    "result": {
+      "accident_rank": "3",
+      "accident_coefficient": 0.9,
+      "score": 0,
+      "rank": "D",
+      "coefficient": "0",
+      "final_coefficient": "0"
+    },
+    "final_coefficient": "0",
+    "cycle_id": "5",
+    "is_end": "0",
+    "cycle_name": {
+      "id": "5",
+      "date": "2020-06"
+    },
+    "status": 98
+  },
+  {
+    "id": "231",
+    "uid": "256",
+    "type": "1",
+    "score": "0",
+    "result": false,
+    "final_coefficient": "",
+    "cycle_id": "4",
+    "is_end": "0",
+    "cycle_name": {
+      "id": "4",
+      "date": "2020-05"
+    },
+    "status": 98
+  }
+]

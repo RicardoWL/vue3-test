@@ -1,0 +1,24 @@
+[
+  {
+    "id": "737",
+    "uid": "168",
+    "type": "1",
+    "score": "92",
+    "result": "{\"accident_rank\":0,\"accident_coefficient\":1,\"score\":\"92\",\"rank\":\"A\",\"coefficient\":\"1.2\",\"final_coefficient\":\"1.2\"}",
+    "final_coefficient": "1.2",
+    "cycle_id": "12",
+    "name": "王子建",
+    "position": "测试工程师"
+  },
+  {
+    "id": "738",
+    "uid": "256",
+    "type": "1",
+    "score": "75",
+    "result": "{\"accident_rank\":0,\"accident_coefficient\":1,\"score\":\"75\",\"rank\":\"C\",\"coefficient\":\"0.7\",\"final_coefficient\":\"0.7\"}",
+    "final_coefficient": "0.7",
+    "cycle_id": "12",
+    "name": "陈益波",
+    "position": "前端（实习）"
+  }
+]

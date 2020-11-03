@@ -1,0 +1,146 @@
+{
+  "uid": 439,
+  "user_name": "王志龙",
+  "user_position": "前端工程师",
+  "department_name": "技术开发部",
+  "cycle_name": "2022-01",
+  "type": 2,
+  "examine_status": "3",
+  "rank_name": "基层1级",
+  "content": [
+    {
+      "id": "p_1586334711016",
+      "name": "道德底线",
+      "score_type": 2,
+      "children": [
+        {
+          "id": "1586334711016_1",
+          "name": "不违法：严格遵守法律法规，禁止利用一切手段非法谋取个人利益、损害公司利益等违法行为",
+          "score": "1"
+        },
+        {
+          "id": "1586334711016_2",
+          "name": "不欺骗：不得伪造文件、伪造数据等；不得恶意欺骗公司/部门/同事以取得相关利益",
+          "score": "2"
+        },
+        {
+          "id": "1586414746730_2",
+          "name": "不泄密：不得私自泄露（包括但不限于以复印、传抄、输出、传播等手段）公司机密的文件、资料、技术、财务状况等相关资料",
+          "score": ""
+        },
+        {
+          "id": "1586414802371_4",
+          "name": "不推诿：对自己的工作任务及工作结果负责，遇到问题时主动承担责任，不狡辩、不推诿",
+          "score": ""
+        },
+        {
+          "id": "1586414801162_3",
+          "name": "不假公济私：不得恶意占用公司资源和工作时间，进行与公司工作无关的事情；不得接外包、接私活",
+          "score": ""
+        }
+      ]
+    },
+    {
+      "id": "p_1586414827698",
+      "name": "价值观",
+      "score_type": 1,
+      "children": [
+        {
+          "id": "1586414827698_1",
+          "name": "简单，高效，卓越",
+          "score": "2.5"
+        },
+        {
+          "id": "1586414842090_3",
+          "name": "不议论同事长短，不议论薪资待遇；不传递消极言论，不传递负面消息",
+          "score": "2.5"
+        },
+        {
+          "id": "1586414841682_2",
+          "name": "凡事有交代，件件有着落，事事有回音",
+          "score": "2.5"
+        },
+        {
+          "id": "1586414841090_1",
+          "name": "复述，复盘，复用",
+          "score": "2.5"
+        }
+      ],
+      "score_total": 10
+    },
+    {
+      "id": "p_1586414863922",
+      "name": "专业知识/技能",
+      "score_type": 1,
+      "children": [
+        {
+          "id": "1586414863922_1",
+          "name": "参考各部门职级职等（如有），根据目前能力对照现有岗位所需知识/技能要求，进行评分。",
+          "score": "20"
+        }
+      ],
+      "score_total": 20
+    },
+    {
+      "id": "p_1586414884241",
+      "name": "工作效率",
+      "score_type": 1,
+      "children": [
+        {
+          "id": "1586414884241_1",
+          "name": "根据员工目前工作效率评分，看是否有延期、拖沓等情况。",
+          "score": "10"
+        }
+      ],
+      "score_total": 10
+    }
+  ],
+  "general": {
+    "score": "60",
+    "data": [
+      {
+        "id": "12",
+        "content": "表达事件或观点时，具备完整性/逻辑性/有数据支撑",
+        "code_name": "A1",
+        "parent_name": "职业化沟通",
+        "parent_content": "典型负面行为:\n※表述冗长，表述不清\n※参杂个人情绪进行沟通,\n※不跟进，不反馈，无闭环,\n",
+        "parent_code_name": "A"
+      },
+      {
+        "id": "18",
+        "content": "主动执行意识薄弱，遇到困难时需鞭策/督促，可达到执行效果。",
+        "code_name": "B1",
+        "parent_name": "执行力",
+        "parent_content": "典型负面行为:\n※需多次提醒/催促才去执行,\n※做完，而非做好,\n※面对困难和压力逃避，维持负面状态",
+        "parent_code_name": "B"
+      },
+      {
+        "id": "23",
+        "content": "对个人业务范畴内的事项负责，以达成个人工作目标为己任，保障工作质量。",
+        "code_name": "C1",
+        "parent_name": "责任心",
+        "parent_content": "典型负面行为:\n※不了解自身的岗位职责，业务不熟悉,\n※工作马虎，经常出错，重复犯错,\n※斤斤计较，推诿，假公济私",
+        "parent_code_name": "C"
+      },
+      {
+        "id": "27",
+        "content": "心态积极，不说不做对团队有损害的话/事。",
+        "code_name": "D1",
+        "parent_name": "组织影响力",
+        "parent_content": "典型负面行为:\n※传播负面/消极情绪，影响他人或部门,\n※固守成规，不灵活变通,\n※行为散漫，态度消极",
+        "parent_code_name": "D"
+      }
+    ]
+  },
+  "status": "1",
+  "answer_content": "{\"content\":{\"1586334711016_1\":{\"answer\":1,\"self_answer\":1,\"score_type\":2,\"progress\":\"\",\"retrogress\":\"\"},\"1586334711016_2\":{\"answer\":1,\"self_answer\":1,\"score_type\":2,\"progress\":\"\",\"retrogress\":\"\"},\"1586414746730_2\":{\"answer\":1,\"self_answer\":1,\"score_type\":2,\"progress\":\"\",\"retrogress\":\"\"},\"1586414802371_4\":{\"answer\":1,\"self_answer\":1,\"score_type\":2,\"progress\":\"\",\"retrogress\":\"\"},\"1586414801162_3\":{\"answer\":1,\"self_answer\":1,\"score_type\":2,\"progress\":\"\",\"retrogress\":\"\"},\"1586414827698_1\":{\"answer\":2,\"self_answer\":2,\"score_type\":1,\"progress\":\"\",\"retrogress\":\"\"},\"1586414842090_3\":{\"answer\":2,\"self_answer\":2,\"score_type\":1,\"progress\":\"\",\"retrogress\":\"\"},\"1586414841682_2\":{\"answer\":2,\"self_answer\":2,\"score_type\":1,\"progress\":\"\",\"retrogress\":\"\"},\"1586414841090_1\":{\"answer\":2,\"self_answer\":2,\"score_type\":1,\"progress\":\"\",\"retrogress\":\"\"},\"1586414863922_1\":{\"answer\":16,\"self_answer\":16,\"score_type\":1,\"progress\":\"\",\"retrogress\":\"\"},\"1586414884241_1\":{\"answer\":8,\"self_answer\":8,\"score_type\":1,\"progress\":\"\",\"retrogress\":\"\"}},\"general\":{\"12\":{\"answer\":80,\"self_answer\":80},\"18\":{\"answer\":80,\"self_answer\":80},\"23\":{\"answer\":80,\"self_answer\":80},\"27\":{\"answer\":80,\"self_answer\":80,\"progress\":\"\"}}}",
+  "auth": {
+    "self_auth": 1,
+    "main_auth": 0,
+    "improve_auth": 0,
+    "button": [
+      "save",
+      "submit"
+    ]
+  }
+}
